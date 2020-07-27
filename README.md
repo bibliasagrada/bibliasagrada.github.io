@@ -98,6 +98,8 @@ Não se esqueçam que JESUS voltará para buscar todos aqueles que creem! Medite
 
 Fiquem com Deus!
 
+Paz!!!
+
 ## Licença
 
 Copyright (c) 2020 Bíblia Sagrada by Marcus! Todos os direitos reservados.
