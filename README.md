@@ -94,14 +94,12 @@ Que a Graça de DEUS esteja sobre nós!
 
 **Quando eu aprender vou fazer na versão app**
 
-Aqui vc também encontramos alguns comandos para instalação, e configuração do Servidor-Debian-8
-
 Não se esqueçam que JESUS voltará para buscar todos aqueles que creem! Meditem na palavra de Jesus no evangelho de [João capitulo 14](https://bibliasagrada.github.io/novo_testamento/joao/joao-14.html).
 
 Fiquem com Deus!
 
 ## Licença
 
-Copyright (c) 2020 Marcus Todos os direitos reservados.
+Copyright (c) 2020 Bíblia Sagrada by Marcus! Todos os direitos reservados.
 
 Licenciado sob a licença [MIT](https://github.com/bibliasagrada/bibliasagrada.github.io/blob/master/LICENSE).
