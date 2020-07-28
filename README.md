@@ -4,9 +4,13 @@
 
 Um dia estava lendo a palavra do Senhor, online, e me deparei com um anúncio incentivando a pornografia. Infelizmente muitos usam da palavra de Deus para fins comerciais. 
 
+* Embora as licenças para códigos abertos, permitam usar para fins lucrativos! 
+   * Gostaria que não o fizessem com a Palavra de Deus. 
+   * Obrigado!
+
 Decidido a criar um ambiente virtual :computer: limpo para ler a palvra do Senhor, que não tenha anúncio, e nenhuma outra forma de adquirir algum recurso financeiro. O Senhor me abençoou, e eu consegui, pela Graça de Deus! 
 
-A princípio usei esse perfil [mlssystem](https://github.com/mlssystem), mas depois para personalizar a "url", resolvi criar o atual.
+A princípio usei esse perfil [mlssystem](https://github.com/mlssystem), mas depois para personalizar a "URL", resolvi criar o atual.
 
 _Aṕos uma busca na internet para conseguir o material em word, consegui encontrar nesse site [umsocorpo](https://umsocorpo.com.br/biblia-sagrada-em-doc-word-versao-revista-e-corrigida/)_
 
@@ -97,9 +101,3 @@ Que a Graça de DEUS esteja sobre nós!
 Não se esqueçam que JESUS voltará para buscar todos aqueles que creem! Meditem na palavra de Jesus no evangelho de [João capitulo 14](https://bibliasagrada.github.io/novo_testamento/joao/joao-14.html).
 
 Fiquem com Deus!
-
-## Licença
-
-Copyright (c) 2020 Bíblia Sagrada by Marcus! Todos os direitos reservados.
-
-Licenciado sob a licença [MIT](https://github.com/bibliasagrada/bibliasagrada.github.io/blob/master/LICENSE).
