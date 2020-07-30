@@ -101,3 +101,5 @@ Que a Graça de DEUS esteja sobre nós!
 Não se esqueçam que JESUS voltará para buscar todos aqueles que creem! Meditem na palavra de Jesus no evangelho de [João capitulo 14](https://bibliasagrada.github.io/novo_testamento/joao/joao-14.html).
 
 Fiquem com Deus!
+
+Paz!!!
