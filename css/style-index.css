@@ -1,0 +1,49 @@
+    #degrade {
+        background: -webkit-gradient(linear, left top, right top, from(#1c82e4), to(#d2eaff)) no-repeat;
+    }
+    
+    .degrade-tbl {
+        background: -webkit-gradient(linear, left top, right top, from(#d2eaff), to(#1c82e4)) no-repeat;
+    }
+    
+    table {
+        border-collapse: collapse;
+        border-spacing: 0px;
+        border: 1px solid #bbb;
+        width: 100%;
+    }
+    
+    td {
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        padding: 10px 8px;
+        text-align: center;
+    }
+    
+    @media screen and (max-width: 480px) {
+        table {
+            width: 100%;
+        }
+        tbody td {
+            display: block;
+            text-align: center;
+        }
+        tbody td:before {
+            content: attr(data-th);
+            text-align: center;
+        }
+    }
+    
+    @media screen and (max-width: 620px) {
+        table {
+            width: 100%;
+        }
+        tbody td {
+            display: block;
+            text-align: center;
+        }
+        tbody td:before {
+            content: attr(data-th);
+            text-align: center;
+        }
+    }
