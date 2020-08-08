@@ -27,7 +27,7 @@ Que a Graça de DEUS esteja sobre nós!
 - [X] Gênesis - OK
 - [X] Êxodo - OK 
 - [X] Levítico - OK
-- [ ] Números
+- [x] Números - OK
 - [ ] Deuteronômio
 - [ ] Josué
 - [ ] Juízes
