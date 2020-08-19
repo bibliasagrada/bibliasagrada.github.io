@@ -9,17 +9,32 @@
     border: none;
     outline: none;
     box-sizing: border-box;
-} 
+}
 
+.pagina-inicial  {
+    /**************************************width: 95%;*/
+    width: 95%;
+    margin: auto; 
+}
 
 /* CABEÇALHO */ 
 
 .logo {
     width: 56px;
-    height: 56px;
+    height: 42px;
     float: right;
     background: url("../imagens/logo-mobile.png") center center/56px no-repeat;
     font-size: 0;
+    margin-top: 1px;
+}
+
+.logo-index {
+    width: 56px;
+    height: 42px;
+    float: right;
+    background: url("../imagens/logo-mobile.png") center center/56px no-repeat;
+    font-size: 0;
+    margin-top: 12px;
 }
 
 body {
@@ -28,10 +43,36 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.cabecalho{
+.cabecalho-home{
     margin-top: 25px;
+    padding-top: 10px;
 }
+
+.cabecalho{
+    padding-top: 10px;
+    margin-top: 25px;
+    margin-right: 2.5%;
+}
+
+.img-ico {
+    /**********************************margin-left: 2%;*/ 
+    margin-left: 2.5%; 
+}
+
+.titulo {
+    text-align: center;
+    font-size: 1.2em;
+    color: #000;
+    /*text-shadow: #ff0000 0.2em 0.1em 0.2em;*/ 
+    text-shadow: #ff0000 0.05em 0em 0em;
+    border: 1px solid rgba(255,255,255,.6); 
+    width: 95%;  
+    margin: auto;
+}
+
+
 .intro h1 {
+    font-size: 1.2em;
     color: #000;
     text-shadow: #fff 0.2em 0.1em 0.2em;
 }
@@ -39,7 +80,7 @@ body {
 .intro p {
     color: #fff;
     text-shadow: rgb(0, 0, 0) 0.2em 0.1em 0.2em;
-    font-size: .8em;
+    font-size: .7em;
 }
 
 .at {
@@ -97,12 +138,25 @@ a {
 
 /*##### TABELA #####*/
 table {
-    margin-bottom: 30px;
+    width: 100%;
+    margin: auto;
+    font-size: .85em;
 }
 
+#lista {
+    border-radius: 0;
+}
 th, td {
     text-align: center; 
-    padding: 2px;           
+}
+
+#tbl-radius td{
+    border-radius: 42px 12px;
+    padding: 0;
+}
+
+#tbl-ajuste td {
+    padding: 4px;
 }
 
 tr:nth-child(even) {
@@ -111,14 +165,10 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
    background-color: #fff;
 }
-
-
 /*##### FIM DA TABELA #####*/
 
 
-
 /*PRÓXIMO CAPITULO*/
-
 .proximo {
     font-stretch: condensed;
     text-transform: lowercase;
@@ -130,6 +180,7 @@ tr:nth-child(odd) {
 
 a:hover {
     color: #ff0000;
+    text-shadow: #000 0.1em 0em 0em;
 }
 
 footer {
@@ -139,6 +190,7 @@ footer {
 .mls {
     font-family: 'FonteLogo';
 }
+
 
 /*LINK ATIVO*/
 
@@ -152,21 +204,27 @@ table tbody td a.ativo {
     float: right;
     background: url("../imagens/top2.png") center center/30px no-repeat;
     font-size: 0;
-    margin-bottom: 12px;
+    margin-bottom: 20px;
+    margin-right: 0%;
 }
 
-
 /*MEDIA*/
-
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 560px) {
     .logo {
         width: 214px;
         background: url("../imagens/logo.png") center center/214px no-repeat;
-    }
-    footer.top {
-        width: 92px;
-        background: url("../imagens/top2.png") center center/92px no-repeat;
-        font-size: 0;
+        margin-top: 3px;
     }
 
+    .logo-index {
+        width: 214px;
+        background: url("../imagens/logo.png") center center/214px no-repeat;
+        margin-top: 12px;
+    }
+    footer.top {
+        width: 100%;
+        background: url("../imagens/top2.png") center center/100% no-repeat;
+        font-size: 0;       
+    }
 }
+

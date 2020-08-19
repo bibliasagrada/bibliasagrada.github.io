@@ -9,7 +9,6 @@ input.addEventListener('input', () => {
   });
 });
 
-/*Esse script apenas marca o item pesquisado, e precisa de muitas melhorias */
 /*texto_original = '';
 
 window.onload=function()
