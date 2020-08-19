@@ -20,7 +20,9 @@ No Blog do site [Trabalhadores da Seara](https://mlssystem.github.io/trabalhador
 
 Que a Graça de DEUS esteja sobre nós!
 
-##### PENDÊNCIAS --> Adicionar meta tags 'keywords' e 'description'.
+## PENDÊNCIAS
+
+### Adicionar meta tags 'keywords' e 'description'
 
 **ANTIGO TESTAMENTO**
 
@@ -36,7 +38,7 @@ Que a Graça de DEUS esteja sobre nós!
 - [ ] II Samuel 
 - [ ] I Reis 	
 - [ ] II Reis 
-- [ ] I Crônicas 
+- [ ] I Crônicas
 - [ ] II Crônicas 
 - [ ] Esdras 
 - [ ] Neemias 
@@ -94,9 +96,19 @@ Que a Graça de DEUS esteja sobre nós!
 - [ ] Judas 
 - [ ] Apocalipse 	
 
----
+### Inclusão do Título, Border-radius nas tabelas, e Informações de Rodapé 
 
-**Quando eu aprender vou fazer na versão app**
+**ANTIGO TESTAMENTO**
+| Gênesis | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | I Samuel | II Samuel | I Reis | II Reis | I Crônicas | II Crônicas | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | Cântico  | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | Amós | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | Ageu | Zacarias | Malaquias	
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
+| OK | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | I-Samuel | II-Samuel | I-Reis | II-Reis | OK | II-Crônicas | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | Cântico | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | Amós | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | Ageu | Zacarias | Malaquias	
+
+**NOVO TESTAMENTO**
+| Mateus | Marcos | Lucas | João | Atos | Romanos | I Coríntios | II Coríntios | Gálatas | Efésios | Filipenses | Colossenses | I Tessalonicenses | II Tessalonicenses | I Timóteo | II Timóteo | Tito | Filemom | Hebreus | Tiago | I Pedro | II Pedro | I João | II João | III João | Judas | Apocalipse 	
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 	
+| Mateus | Marcos | Lucas | João | Atos | Romanos | I Coríntios | II Coríntios | Gálatas | Efésios | Filipenses | Colossenses | I Tessalonicenses | II Tessalonicenses | I Timóteo | II Timóteo | Tito | Filemom | Hebreus | Tiago | I Pedro | II Pedro | I João | II João | III João | Judas | Apocalipse
+
+**Quando aprender vou fazer na versão app**
 
 Não se esqueçam que JESUS voltará para buscar todos aqueles que creem! Meditem na palavra de Jesus no evangelho de [João capitulo 14](https://bibliasagrada.github.io/novo_testamento/joao/joao-14.html).
 
