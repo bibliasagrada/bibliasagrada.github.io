@@ -8,7 +8,7 @@ Um dia estava lendo a palavra do Senhor, online, e me deparei com um anúncio in
    * Gostaria que não o fizessem com a Palavra de Deus. 
    * Obrigado!
 
-Decidido a criar um ambiente virtual :computer: limpo para ler a palvra do Senhor, que não tenha anúncio, e nenhuma outra forma de adquirir algum recurso financeiro. O Senhor me abençoou, e eu consegui, pela Graça de Deus! 
+Decidido a criar um ambiente virtual :computer: limpo para ler a palavra do Senhor, que não tenha anúncio, e nenhuma outra forma de adquirir algum recurso financeiro. O Senhor me abençoou, e eu consegui, pela Graça de Deus! 
 
 A princípio usei esse perfil [mlssystem](https://github.com/mlssystem), mas depois para personalizar a "URL", resolvi criar o atual.
 
@@ -101,7 +101,7 @@ Que a Graça de DEUS esteja sobre nós!
 **ANTIGO TESTAMENTO**
 | Gênesis | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | I Samuel | II Samuel | I Reis | II Reis | I Crônicas | II Crônicas | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | Cântico  | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | Amós | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | Ageu | Zacarias | Malaquias	
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| OK | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | OK | II-Samuel | OK | II-Reis | OK | OK | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | Cântico | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | Amós | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | Ageu | Zacarias | Malaquias	
+| OK | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | OK | OK | OK | OK | OK | OK | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | Cântico | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | Amós | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | Ageu | Zacarias | Malaquias	
 
 **NOVO TESTAMENTO**
 | Mateus | Marcos | Lucas | João | Atos | Romanos | I Coríntios | II Coríntios | Gálatas | Efésios | Filipenses | Colossenses | I Tessalonicenses | II Tessalonicenses | I Timóteo | II Timóteo | Tito | Filemom | Hebreus | Tiago | I Pedro | II Pedro | I João | II João | III João | Judas | Apocalipse 	
