@@ -101,7 +101,7 @@ Que a Graça de DEUS esteja sobre nós!
 **ANTIGO TESTAMENTO**
 | Gênesis | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | I Samuel | II Samuel | I Reis | II Reis | I Crônicas | II Crônicas | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | Cântico  | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | Amós | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | Ageu | Zacarias | Malaquias	
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| OK | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | OK | OK | OK | OK | OK | OK | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | Cântico | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | Amós | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | Ageu | Zacarias | Malaquias	
+| OK | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | OK | OK | OK | OK | OK | OK | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | OK | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | OK | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | OK | Zacarias | Malaquias	
 
 **NOVO TESTAMENTO**
 | Mateus | Marcos | Lucas | João | Atos | Romanos | I Coríntios | II Coríntios | Gálatas | Efésios | Filipenses | Colossenses | I Tessalonicenses | II Tessalonicenses | I Timóteo | II Timóteo | Tito | Filemom | Hebreus | Tiago | I Pedro | II Pedro | I João | II João | III João | Judas | Apocalipse 	
