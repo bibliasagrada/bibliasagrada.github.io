@@ -12,9 +12,9 @@ Decidido a criar um ambiente virtual :computer: limpo para ler a palavra do Senh
 
 A princípio usei esse perfil [mlssystem](https://github.com/mlssystem), mas depois para personalizar a "URL", resolvi criar o atual.
 
-_Aṕos uma busca na internet para conseguir o material em word, consegui encontrar nesse site [umsocorpo](https://umsocorpo.com.br/biblia-sagrada-em-doc-word-versao-revista-e-corrigida/)_
+_Aṕos uma busca na internet, consegui encontrar o material em word, no site [umsocorpo](https://umsocorpo.com.br/biblia-sagrada-em-doc-word-versao-revista-e-corrigida/)_
 
-O prejeto além de estar no meu repositório, também está hospedado aqui mesmo no GitHub, se quiserem dar uma olhada [Bíiblia Sagrada](https://bibliasagrada.github.io/)
+O prejeto além de estar no meu repositório, também está hospedado aqui mesmo no GitHub, se quiserem dar uma olhada! Acesse o link: [Bíiblia Sagrada](https://bibliasagrada.github.io/) 
 
 No Blog do site [Trabalhadores da Seara](https://mlssystem.github.io/trabalhadoresdaseara/), **outro projeto que estou desenvolvendo**, tem um [artigo](https://mlssystem.github.io/trabalhadoresdaseara/biblia-sagrada.html) falando sobre esse livro maravilhoso que Deus nos deu. Costumo dizer que a Bíblia é um manual de instrução para o ser humano.
 
@@ -101,7 +101,7 @@ Que a Graça de DEUS esteja sobre nós!
 **ANTIGO TESTAMENTO**
 | Gênesis | Êxodo | Levítico | Números | Deuteronômio | Josué | Juízes | Rute | I Samuel | II Samuel | I Reis | II Reis | I Crônicas | II Crônicas | Esdras | Neemias | Ester | Jó | Salmos | Provérbios | Eclesiastes | Cântico  | Isaías | Jeremias | Lamentações | Ezequiel | Daniel | Oséias | Joel | Amós | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | Ageu | Zacarias | Malaquias	
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| OK | Êxodo | Levítico | Números | OK | Josué | Juízes | Rute | OK | OK | OK | OK | OK | OK | OK | Neemias | OK | Jó | Salmos | Provérbios | OK | OK | Isaías | Jeremias | Lamentações | Ezequiel | OK | Oséias | Joel | OK | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | OK | Zacarias | Malaquias	
+| OK | OK | Levítico | Números | OK | Josué | Juízes | Rute | OK | OK | OK | OK | OK | OK | OK | Neemias | OK | Jó | Salmos | Provérbios | OK | OK | Isaías | Jeremias | Lamentações | Ezequiel | OK | Oséias | Joel | OK | Obadias | Jonas | Miquéias | Naum | Habacuque | Sofonias | OK | Zacarias | Malaquias	
 
 **NOVO TESTAMENTO**
 | Mateus | Marcos | Lucas | João | Atos | Romanos | I Coríntios | II Coríntios | Gálatas | Efésios | Filipenses | Colossenses | I Tessalonicenses | II Tessalonicenses | I Timóteo | II Timóteo | Tito | Filemom | Hebreus | Tiago | I Pedro | II Pedro | I João | II João | III João | Judas | Apocalipse 	
