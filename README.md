@@ -106,7 +106,7 @@ Que a Graça de DEUS esteja sobre nós!
 **NOVO TESTAMENTO**
 | Mateus | Marcos | Lucas | João | Atos | Romanos | I Coríntios | II Coríntios | Gálatas | Efésios | Filipenses | Colossenses | I Tessalonicenses | II Tessalonicenses | I Timóteo | II Timóteo | Tito | Filemom | Hebreus | Tiago | I Pedro | II Pedro | I João | II João | III João | Judas | Apocalipse 	
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 	
-| Mateus | Marcos | Lucas | João | Atos | Romanos | I Coríntios | II Coríntios | Gálatas | Efésios | Filipenses | Colossenses | I Tessalonicenses | II Tessalonicenses | I Timóteo | II Timóteo | Tito | Filemom | Hebreus | Tiago | I Pedro | II Pedro | I João | II João | III João | Judas | Apocalipse
+| OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK
 
 **Quando aprender vou fazer na versão app**
 
