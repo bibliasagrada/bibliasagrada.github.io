@@ -2,7 +2,7 @@
 
 ## Bíblia Sagrada, fonte de vida, alimento para alma, revelação de DEUS para o homem, e explicações das mais diversas, para questões de todas as áreas de nossas vidas.
 
-Um dia estava lendo a palavra do Senhor, online, e me deparei com um anúncio incentivando a pornografia. Infelizmente muitos usam da palavra de Deus para fins comerciais. 
+Um dia estava lendo a palavra do Senhor, online, e me deparei com um anúncio incentivando a pornografia. Infelizmente muitos usam da palavra de Deus para fins comerciais.
 
 * Embora as licenças para códigos abertos, permitam usar para fins lucrativos! 
    * Gostaria que não o fizessem com a Palavra de Deus. 
