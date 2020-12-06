@@ -31,8 +31,8 @@ Que a Graça de DEUS esteja sobre nós!
 - [X] Levítico - OK
 - [x] Números - OK
 - [X] Deuteronômio - Ok
-- [X] Josué
-- [ ] Juízes
+- [X] Josué - OK
+- [X] Juízes - OK
 - [ ] Rute
 - [ ] I Samuel
 - [ ] II Samuel 
