@@ -33,7 +33,7 @@ Que a Graça de DEUS esteja sobre nós!
 - [X] Deuteronômio - Ok
 - [X] Josué - OK
 - [X] Juízes - OK
-- [ ] Rute
+- [X] Rute - OK
 - [ ] I Samuel
 - [ ] II Samuel 
 - [ ] I Reis 	
