@@ -36,7 +36,7 @@ Que a Graça de DEUS esteja sobre nós!
 - [X] Rute - OK
 - [X] I Samuel
 - [X] II Samuel 
-- [ ] I Reis 	
+- [X] I Reis 	
 - [ ] II Reis 
 - [ ] I Crônicas
 - [ ] II Crônicas 
