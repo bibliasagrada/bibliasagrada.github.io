@@ -37,7 +37,7 @@ Que a Graça de DEUS esteja sobre nós!
 - [X] I Samuel
 - [X] II Samuel 
 - [X] I Reis 	
-- [ ] II Reis 
+- [X] II Reis 
 - [ ] I Crônicas
 - [ ] II Crônicas 
 - [ ] Esdras 
