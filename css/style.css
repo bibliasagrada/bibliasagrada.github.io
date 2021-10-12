@@ -235,19 +235,19 @@ table tbody td a.ativo {
 @media screen and (min-width: 560px) {
     .logo {
         width: 214px;
-        background: url("../imagens/logo.png") center center/178px no-repeat;
+        background: url("../imagens/logo-56.png") center center/178px no-repeat;
         margin-top: 3px;
     }
 
     .logo-index {
         width: 214px;
-        background: url("../imagens/logo.png") center center/178px no-repeat;
+        background: url("../imagens/logo-56.png") center center/178px no-repeat;
         margin-top: 12px;
     }
 
     .logo-index-intro {
         width: 214px;
-        background: url("../imagens/logo.png") center center/128px no-repeat;
+        background: url("../imagens/logo-56.png") center center/128px no-repeat;
         margin-top: 12px;
     }
 
