@@ -16,7 +16,7 @@ _Aṕos uma busca na internet, consegui encontrar o material em word, no site [u
 
 O prejeto além de estar no meu repositório, também está hospedado aqui mesmo no GitHub, se quiserem dar uma olhada! Acesse o link: [Bíiblia Sagrada](https://bibliasagrada.github.io/) 
 
-No Blog do site [Trabalhadores da Seara](https://mlssystem.github.io/trabalhadoresdaseara/), **outro projeto que estou desenvolvendo**, tem um [artigo](https://mlssystem.github.io/trabalhadoresdaseara/biblia-sagrada.html) falando sobre esse livro maravilhoso que Deus nos deu. Costumo dizer que a Bíblia é um manual de instrução para o ser humano.
+No Blog do site [Trabalhadores da Seara](https://mlssystem.github.io/trabalhadoresdaseara/), **outro projeto que estou desenvolvendo**, tem um [artigo](https://mlssystem.github.io/trabalhadoresdaseara/bibliologia.html) falando sobre esse livro maravilhoso que Deus nos deu. Costumo dizer que a Bíblia é um manual de instrução para o ser humano.
 
 Que a Graça de DEUS esteja sobre nós!
 
